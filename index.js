@@ -14,9 +14,12 @@ function sayHiToGrandma(string) {
   var input = `string`
   if (input === input.toLowerCase())
   return "I can't hear you!"
+}
+function sayHiToGrandma(string)
   var input = `string`
   if (input === input.toUpperCase())
   return "YES INDEED!"
-  else if (input === "I love you, Grandma")
+  }
+  if (input === "I love you, Grandma")
   return "I love you, too"
 }
